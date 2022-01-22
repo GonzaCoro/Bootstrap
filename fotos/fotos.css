@@ -1,6 +1,14 @@
 .fondo {
     background-color: blueviolet;
 }
+.bg-color {
+    background-color: rgb(45, 163, 45);
+}
+.navbar-nav {
+    display: flex;
+    justify-content: end;
+}
+
 
 
 /*
